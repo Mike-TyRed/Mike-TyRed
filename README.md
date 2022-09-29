@@ -5,8 +5,6 @@
 
 - 💻 I’m currently learning **web developer**
 
-- 📫 How to reach me **miguel.terrazas193@tectijuana.edu.mx**
-
 - 👨‍💻 All of my projects are available at [repo](https://github.com/Mike-TyRed?tab=repositories)
 
 - ⚡ Fun fact **PC MASTER RACE**
