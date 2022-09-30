@@ -5,7 +5,7 @@
 
 - 💻 I’m currently learning **web developer**
 
-- 👨‍💻 All of my projects are available at [repo](https://github.com/Mike-TyRed?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Mike-TyRed?tab=repositories)
 
 - ⚡ Fun fact **PC MASTER RACE**
 
