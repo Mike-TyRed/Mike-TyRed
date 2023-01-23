@@ -35,5 +35,5 @@
   My Stats :fire:
 </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-tyred&theme=tokyonight&width=300)](https://github.com/mike-tyred/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-tyred&theme=tokyonight&hight=50)](https://github.com/mike-tyred/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike-tyred&show_icons=true&theme=tokyonight)
