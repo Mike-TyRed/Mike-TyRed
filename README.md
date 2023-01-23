@@ -37,6 +37,9 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,css,discord,django,dotnet,figma,firebase,html,js,laravel,md,mongodb,mysql,ps,php,postgres,powershell,py,react,tailwind,vscode" />
     </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ps,php,postgres,powershell,py,react,tailwind,vscode" />
+    </a>
   </p>
   
 </div>
@@ -47,7 +50,5 @@
   My Stats :fire:
 </h1>
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-tyred&layout=compact&theme=tokyonight&hide_border=true&card_width=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-tyred&layout=compact&theme=tokyonight&hide_border=true&card_width=10)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike-tyred&show_icons=true&theme=tokyonight&hide_border=true)  
-</div>
