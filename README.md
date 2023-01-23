@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Php-purple?logo=linkedin&logoColor=white&style=for-the-badge" alt="Purple Badge"/>
+    <img src="https://img.shields.io/badge/php-purple?logo=php&logoColor=white&style=for-the-badge" alt="Purple Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=mike-tyred&style=flat-square&color=blue" alt=""/>
