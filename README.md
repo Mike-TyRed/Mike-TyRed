@@ -35,6 +35,6 @@
   My Stats :fire:
 </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mike-tyred&theme=dark&hide_border=true&show_icons=true&locale=en" alt="mike-tyred" /></p> 
