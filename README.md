@@ -30,10 +30,10 @@
   📚 Currently studying Software Development at ITT
 </div>
 
-<div>
+<div align="center">
   <h1>Languages and Tools :hammer_and_wrench:</h1>
   
-  <p align="center">
+  <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,css,discord,django,dotnet,figma,firebase,html,js,laravel,md,mongodb,mysql,ps,php,postgres,powershell,py,react,tailwind,vscode" />
   </a>
