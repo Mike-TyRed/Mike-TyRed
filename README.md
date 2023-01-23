@@ -13,8 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=mike-tyred&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
 <h1 align="center">
   Hello there
   <img src="https://media.giphy.com/media/mst80usDtSUmCZZumD/giphy.gif" width="50px"/>
@@ -24,11 +22,19 @@
   <img src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
+<div align="center">
+  <h1>
+    :man_technologist: About Me :
+    <img src="https://media.giphy.com/media/mst80usDtSUmCZZumD/giphy.gif" width="50px"/>
+  </h1>
+  
+  - 💻 Part-time software developer
 
-- 💻 Part-time software developer
+  - 📚 Currently studying Software Development at ITT
+</div>
 
-- 📚 Currently studying Software Development at ITT
+
+
 
 ---
 
@@ -42,5 +48,5 @@
   My Stats :fire:
 </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&card_width=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-tyred&layout=compact&theme=tokyonight&hide_border=true&card_width=10)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike-tyred&show_icons=true&theme=tokyonight&hide_border=true)
