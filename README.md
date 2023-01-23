@@ -12,6 +12,4 @@
   <img src="https://media.giphy.com/media/mst80usDtSUmCZZumD/giphy.gif" width="30px"/>
 </h1>
 
----
-
 ### :man_technologist: About Me :
