@@ -7,7 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=mike-tyred&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
+<h1 align="center">
   Hello there
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/mst80usDtSUmCZZumD/giphy.gif" width="30px"/>
 </h1>
+
+---
+
+### :man_technologist: About Me :
