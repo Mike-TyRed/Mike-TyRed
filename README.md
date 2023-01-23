@@ -30,6 +30,8 @@
 
 ---
 
+### :fire: My Stats :
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-tyred&show_icons=true&locale=en&layout=compact" alt="mike-tyred" /></p>  
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mike-tyred&show_icons=true&locale=en" alt="mike-tyred" /></p> 
