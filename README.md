@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+</div>
+
+
 <h1 align="center">Hello there 👋 i'm Mike</h1>  
 <h3 align="center">A future developer from Mexico</h3>  
   
