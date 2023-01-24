@@ -29,9 +29,9 @@
   <h1>About Me</h1>
   <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"/>
   
-  💻 Part-time software developer
+  <h2>💻 Part-time software developer</h2>
 
-  📚 Currently studying Software Development at ITT
+  <h2>📚 Currently studying Software Development at ITT</h2>
 </div>
 
 <div align="center">
