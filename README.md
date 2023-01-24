@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/miguel-terrazas-3091a4263" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io%2Ftwitter%2Furl%2FMikeTyred" alt="LinkedIn Badge"/>
+  </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=mike-tyred&style=flat-square&color=blue" alt=""/>
 </div>
