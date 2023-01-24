@@ -43,9 +43,10 @@
 </div>
 
 ---
-  
-<h1 align="center"> My Stats </h1>
-<img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="100px"/>
+<div align="center">
+  <h1> My Stats </h1>
+  <img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="100px"/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-tyred&layout=compact&theme=tokyonight&hide_border=true&card_width=10)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike-tyred&show_icons=true&theme=tokyonight&hide_border=true)  
