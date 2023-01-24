@@ -21,7 +21,7 @@
 
 <div align="center">
   <h1>About Me</h1>
-  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"/>
   
   💻 Part-time software developer
 
@@ -30,7 +30,7 @@
 
 <div align="center">
   <h1>Languages and Tools</h1>
-  <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="100px"/>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,css,discord,django,dotnet,figma,firebase,html,js,laravel,md,mongodb,mysql" />
