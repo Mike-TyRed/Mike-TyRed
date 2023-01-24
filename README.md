@@ -7,7 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=blue&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=blue&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-black?logo=steam&logoColor=white&style=for-the-badge" alt="Steam Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=mike-tyred&style=flat-square&color=blue" alt=""/>
