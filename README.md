@@ -56,11 +56,12 @@
         src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"
         width="100px"
     />
-
-    <strong>💻 Part-time software developer</strong>
-
-    <strong>📚 Currently studying Software Development at ITT</strong>
+    <div>
+    
 </div>
+    
+    💻 Part-time software developer
+    📚 Currently studying Software Development at ITT
 
 <div align="center">
     <h2>Languages and Tools</h2>
@@ -83,7 +84,7 @@
 </div>
 
 <div align="center">
-    <h2>My Stats</h1>
+    <h2>My Stats</h2>
     <img
         src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif"
         width="100px"
