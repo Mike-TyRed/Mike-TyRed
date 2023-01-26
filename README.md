@@ -72,12 +72,7 @@
     <p align="center">
         <a href="https://skillicons.dev">
             <img
-                src="https://skillicons.dev/icons?i=git,bootstrap,cs,css,discord,django,dotnet,figma,firebase,html,js,laravel,md,mongodb,mysql"
-            />
-        </a>
-        <a href="https://skillicons.dev">
-            <img
-                src="https://skillicons.dev/icons?i=ps,php,postgres,powershell,py,react,tailwind,vscode"
+                src="https://skillicons.dev/icons?i=vscode,git,cs,py,php,js,html,css,bootstrap,tailwind,laravel,django,mysql,postgres"
             />
         </a>
     </p>
