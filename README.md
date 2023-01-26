@@ -6,6 +6,12 @@
 </div>
 
 <div id="badges" align="center">
+    <a href="https://twitter.com/miketyred" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=blue&style=for-the-badge"
+            alt="Twitter Badge"
+        />
+    </a>
     <a
         href="https://www.linkedin.com/in/miguel-terrazas-3091a4263"
         target="_blank"
@@ -15,15 +21,9 @@
             alt="LinkedIn Badge"
         />
     </a>
-    <a href="#" target="_blank">
+    <a href="mailto:miketyredev@gmail.com" target="_blank">
         <img
-            src="https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=blue&style=for-the-badge"
-            alt="Twitter Badge"
-        />
-    </a>
-    <a href="#" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Steam-black?logo=steam&logoColor=white&style=for-the-badge"
+            src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=orange&style=for-the-badge"
             alt="Steam Badge"
         />
     </a>
