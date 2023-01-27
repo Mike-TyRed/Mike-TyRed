@@ -23,7 +23,7 @@
     </a>
     <a href="mailto:miketyredev@gmail.com" target="_blank">
         <img
-            src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=orange&style=for-the-badge"
+            src="https://img.shields.io/badge/Gmail-orange?logo=gmail&logoColor=white&style=for-the-badge"
             alt="Steam Badge"
         />
     </a>
