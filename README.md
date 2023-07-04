@@ -59,9 +59,10 @@
     <div>
     
 </div>
-    
-    💻 Part-time software developer
-    📚 Currently studying Software Development at ITT
+<div>
+    <p>💻 Part-time software developer</p>
+    <p>📚 Currently studying Software Development at ITT</p>
+</div>
 
 <div align="center">
     <h2>Languages and Tools</h2>
